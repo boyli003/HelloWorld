@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello World my is master!");
         System.out.println("Hello World my is master 从github上修改!");
         System.out.println("Hello World my is fenzhi");
+        System.out.println("在idea上修改master制造一个冲突");
+
     }
 }
